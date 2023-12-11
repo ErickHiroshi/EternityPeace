@@ -41959,142 +41959,16 @@ a.u-button-style.u-button-style.active > .u-text-active-grey-90[class*="u-border
 a.u-link.u-text-hover-grey-90:hover {
   color: #1a1a1a !important;
 }
-/*end-variables colors*/
-
-/*begin-variables sitestylecss*/
-
-
 
         .u-body
         {
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
         --theme-sheet-width-xl: 1140px;
         --theme-sheet-width-lg: 940px;
         --theme-sheet-width-md: 720px;
         --theme-sheet-width-sm: 540px;
         --theme-sheet-width-xs: 340px;
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
         }
 
-        /** common-rules **/
         h1.u-title
         {
         font-weight: 400;
@@ -42230,10 +42104,7 @@ a.u-link.u-text-hover-grey-90:hover {
         border-width: 1px;
         borders: top right bottom left;
         }
-        /** common-rules **/
 
-        /** publish-rules **/
-        /*begin-media rules*/
         @media (max-width: 1199px) {
         h1.u-title
         {
@@ -42342,13 +42213,7 @@ a.u-link.u-text-hover-grey-90:hover {
         font-size: 1rem;
         }
         }
-        /*end-media rules*/
-        /** publish-rules **/
 
-        
-
-        /** cms-rules **/
-        /*begin-responsive rules*/
         .u-lg h1.u-title
         {
         font-size: 4.5rem;
@@ -42453,10 +42318,7 @@ a.u-link.u-text-hover-grey-90:hover {
         {
         font-size: 1rem;
         }
-        /*end-responsive rules*/
-        /** cms-rules **/
 
-        /** color-rules **/
         .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item) > a,
         .u-gradient > .u-container-layout > a,
         .u-image:not(.u-shading) > .u-container-layout > a,
@@ -42519,9 +42381,7 @@ a.u-link.u-text-hover-grey-90:hover {
         background-color: #ffffff;
         color: #000000;
         }
-        /** color-rules **/
 
-        /** alt-color-rules **/
         .u-body-color a,.u-palette-1-base a,.u-palette-1-dark-3 a,.u-palette-1-dark-2 a,.u-palette-1-dark-1 a,.u-palette-1 a,.u-palette-1-light-1 a,.u-palette-2-base a,.u-palette-2-dark-3 a,.u-palette-2-dark-2 a,.u-palette-2-dark-1 a,.u-palette-2 a,.u-palette-2-light-1 a,.u-palette-3-dark-3 a,.u-palette-3-dark-2 a,.u-palette-3-dark-1 a,.u-palette-4-base a,.u-palette-4-dark-3 a,.u-palette-4-dark-2 a,.u-palette-4-dark-1 a,.u-palette-5-dark-3 a,.u-palette-5-dark-2 a,.u-palette-5-dark-1 a,.u-grey-40 a,.u-grey-30 a,.u-grey-90 a,.u-grey-80 a,.u-grey-75 a,.u-black a,.u-grey-70 a,.u-grey-60 a,.u-grey-50 a,.u-grey-dark-3 a,.u-grey-dark-2 a,.u-grey-dark-1 a,.u-grey a,.u-shading a,.u-overlap-contrast .u-header a:not(.u-nav-link):not(.u-btn)
         {
         color: #adcce9;
@@ -42545,11 +42405,7 @@ a.u-link.u-text-hover-grey-90:hover {
         background-color: #8db8e0;
         color: #ffffff;
         }
-        /** alt-color-rules **/
     
-
-
-/*end-variables sitestylecss*/
  .u-header {
   background-image: none;
 }
@@ -42625,6 +42481,4 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 
- /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
- /*end-variables base-font-size*/
