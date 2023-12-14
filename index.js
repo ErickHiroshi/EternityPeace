@@ -6,7 +6,7 @@
             i: i,
             l: false,
             exports: {}
-        };
+        }
         return t[i].call(o.exports, o, o.exports, e),
             o.l = true,
             o.exports

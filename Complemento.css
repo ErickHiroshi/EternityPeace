@@ -2,7 +2,8 @@
   clear: both;
   display: block;
   content: "";
-  height: 0; }
+  height: 0; 
+}
 
 .fr-hide-by-clipping {
   position: absolute;
